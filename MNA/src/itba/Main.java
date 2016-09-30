@@ -12,6 +12,8 @@ public class Main {
 		Matrix m = new GRCARMatrix(n,x);
 		m.print(); /* Display the matrix */
 		
+		System.out.println("La vida no es justa");
+		
 		//Start timer
 		long start = System.currentTimeMillis();
 		
